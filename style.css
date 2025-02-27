@@ -112,10 +112,19 @@ body {
 .conteudo-principal .paineis .seta.btn-voltar {
   left: 20px;
   transform: rotate(180deg);
+ 
 }
 .conteudo-principal .paineis .seta.btn-avancar {
   right: 20px;
 }
+
+.conteudo-principal .paineis .opacidade{
+  opacity: 0.3;
+}
+
+
+
+
 
 /* ####### painel ########## */
 
